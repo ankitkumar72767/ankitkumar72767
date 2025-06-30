@@ -1,3 +1,4 @@
+|[logo] (https://github.com/ankitkumar72767/ankitkumar72767/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2012_48_38%20PM.png)
 <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
 <h3 align="center">A passionate CSAIML student & full-stack web developer from India 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
