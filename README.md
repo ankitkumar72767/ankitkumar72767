@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/ankitkumar72767/ankitkumar72767/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2012_48_38%20PM.png" alt="Banner" width="100%" height="500px"/>
+  <img src="https://github.com/ankitkumar72767/ankitkumar72767/blob/main/logo.png" alt="Banner" width="100%" height="500px"/>
 </p>
 
 <!-- Intro -->
