@@ -1,46 +1,65 @@
-<!-- Profile Banner -->
+<!-- Logo at Top -->
 <p align="center">
-  <img src="https://github.com/ankitkumar72767/ankitkumar72767/blob/main/logo.png" alt="Banner" width="100%" height="500px"/>
+  <img src="https://github.com/ankitkumar72767/ankitkumar72767/blob/main/logo.png" alt="Logo" width="8000px"/>
 </p>
 
-<!-- Intro -->
+<!-- Intro with GIF on Right -->
+<p>
+  <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="AI Banner" width="500px"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">AI & ML Intern | Full-Stack Developer | MERN | Azure | CSAIML @ Trident Academy of Technology</h3>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=ankitkumar72767&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar72767" />
+  <img src="https://komarev.com/ghpvc/?username=ankitkumar72767&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🎯 About Me
+##  About Me
 
-- 🎓 **B.Tech in CSAIML**, Trident Academy of Technology, Odisha  
-- 💻 Exploring AI, ML, Computer Vision, and Full-Stack Web Development  
-- 🔥 Passionate about real-world innovations using code
+- 🎓 B.Tech in **CSAIML**, Trident Academy of Technology, Odisha  
+- 💻 Exploring **AI, ML, Computer Vision**, and **Full-Stack Web Development**  
+- 🔥 Passionate about building real-world intelligent systems  
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - 🎧 **AI Webcam Emotion Music Recommender**  
-  👉 [GitHub](https://github.com/ankitkumar72767/Emotion-Music-Recommender) | [LinkedIn Post](https://linkedin.com/in/ankit-kumar-bb27b5357)
+  👉 [GitHub](https://github.com/ankitkumar72767/Emotion-Music-Recommender)  
+  👉 [LinkedIn](https://linkedin.com/in/ankit-kumar-bb27b5357)
 
-- 🧠 **AI Career Counselor 2.0** (Django + ChatGPT + ML)  
-  🚧 GitHub link coming soon...
+- 🎓 **AI Career Counselor**  
+  👉 [GitHub](https://github.com/ankitkumar72767/ai-career-counselor)  
+  👉 [LinkedIn](https://www.linkedin.com/posts/ankit-kumar-bb27b5357_ai-career-counselor-project-activity-7188842293548724224-7Mup)  
+  💡 *Built With:* Python, Flask, ChatGPT, Machine Learning  
+  🧠 *Features:*  
+  - Takes user skills, interests & background as input  
+  - Recommends personalized career paths  
+  - Shows roadmaps & gives smart suggestions  
+
+- 🌤️ **AI-Powered Weather Mood Predictor**  
+  👉 [LinkedIn Post](https://www.linkedin.com/posts/ankit-kumar-bb27b5357_aiweatherapp-flask-ml-activity-7201518362135187456-uXRw)  
+  💡 *Tech Stack:* Python + Flask + ML + OpenWeatherMap API  
+  🧠 *Features:*  
+  - Live weather data fetch (temp, humidity, etc.)  
+  - Predicts user mood using ML model  
+  - Gives mood-based activity or quote  
 
 ---
 
 ## 🧪 Internship Experience
 
-- ✅ **AI & ML Intern** @ Edunet (AICTE, IBM)  
-  *Real-world AI projects, IBM SkillsBuild, Mentorship*
+-   **AI & ML Intern** @ Edunet (AICTE + IBM)  
+  _Real-world AI projects, IBM SkillsBuild, mentorship_
 
 - ☁️ **Azure AI Intern** @ Microsoft Learn  
-  *Worked on GenAI + Azure AI APIs*
+  _Worked on GenAI + Azure Vision/Language APIs_
 
 - 🌐 **Web Developer Intern** @ InternPe  
-  *Built full-stack websites with HTML, CSS, JavaScript*
+  _Created full-stack websites with HTML, CSS, JavaScript_
 
 ---
 
@@ -50,7 +69,7 @@
 - 🤖 **Intro to AI** – Infosys Springboard  
 - 📋 **Project Management** – IBM  
 - 🧾 **Tech Job Simulation** – Deloitte (Forage)  
-🔗 [LinkedIn Certificate Gallery](https://linkedin.com/in/ankit-kumar-bb27b5357)
+🔗 [View All Certificates on LinkedIn](https://linkedin.com/in/ankit-kumar-bb27b5357)
 
 ---
 
@@ -65,7 +84,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=django)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=opencv)
 
 ---
@@ -93,16 +112,16 @@
 
 ## 🧠 Currently Learning
 
-- Deep Learning, NLP
-- Microsoft Azure AI (Vision, Language)
-- Hadoop / Spark
-- Emotion Detection & Recommendation Systems
+- Deep Learning, NLP  
+- Microsoft Azure AI (Vision, Language)  
+- Big Data with Hadoop / Spark  
+- Custom Emotion Detection Models  
 
 ---
 
 ## 💬 Ask Me About
 
-**Python, Flask, React.js, Node.js, MongoDB, AI/ML, OpenCV, Azure, Full-Stack Web Dev**
+**Python, Flask, React.js, Node.js, MongoDB, AI/ML, OpenCV, Azure, Full-Stack Web Development**
 
 ---
 
@@ -112,5 +131,4 @@
 
 ---
 
-> 🔗 _Let’s collaborate and innovate — open to internships, projects, and hackathons._
-
+> 🔗 *Let’s collaborate and innovate — I’m open to internships, real-world projects, and hackathons!*
